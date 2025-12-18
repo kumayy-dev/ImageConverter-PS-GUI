@@ -1,6 +1,6 @@
 # ImageConverter-PS-GUI
 
-ImageConverter-PS-GUI は、PowerShell で動作する **画像変換・リサイズ・形式変換ツール** です。
+ImageConverter-PS-GUI は、PowerShell で動作する **画像変換・リサイズ・形式変換ツール** です。  
 GUI 操作により、写真や画像ファイルをまとめて処理できます。
 
 主に以下のような用途を想定しています。
@@ -9,6 +9,8 @@ GUI 操作により、写真や画像ファイルをまとめて処理できま�
 - 画像形式（JPG / PNG / WebP / HEIC）を変換したい
 - Box やクラウド保存向けに画像を最適化したい
 - コマンド操作なしで安全に画像処理を行いたい
+
+![ImageConverter-PS-GUI GUI Screenshot](images/screenshot-v2.png)
 
 ---
 
@@ -187,3 +189,12 @@ ImageConverter-PS-GUI
   - 画像形式変換機能を追加
   - README を画像変換ツール前提で全面更新
 
+## ライセンス
+
+本プロジェクトは **MIT License** （または作成されたライセンス名）に基づき公開されています。
+詳細は [LICENSE](./LICENSE) ファイルをご確認ください。
+
+- 個人利用・社内利用を想定しています。
+- 再配布・改変については利用者の責任で行ってください。
+
+Copyright (c) 2024-2025 [kumayy-dev/ImageConverter-PS-GUI]
